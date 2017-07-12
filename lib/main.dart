@@ -28,6 +28,8 @@ class HomePageState extends State<HomePage> {
     );
     data = JSON.decode(response.body);
     print(data[1]["title"]);
+    
+    return "Success!";
   }
 
   @override
