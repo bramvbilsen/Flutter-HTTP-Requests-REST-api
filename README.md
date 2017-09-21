@@ -1,6 +1,5 @@
 # Flutter SDK: HTTP Requests and REST api Tutorial
-
-This tutorial has not been uploaded yet!
+The video tutorial for this repo can be found here: https://youtu.be/m7b7_Nq7XSs
 
 ## Getting Started
 
