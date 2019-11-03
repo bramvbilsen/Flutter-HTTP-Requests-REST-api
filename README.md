@@ -1,7 +1,16 @@
-# Flutter SDK: HTTP Requests and REST api Tutorial
-The video tutorial for this repo can be found here: https://youtu.be/m7b7_Nq7XSs
+# flutter_http_requests_rest_api
+
+A new Flutter project.
 
 ## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](http://flutter.io/).
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
